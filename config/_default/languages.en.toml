@@ -1,0 +1,27 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Valkyrie"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/goddess.png"
+  # secondaryLogo = "PATH"
+  description = " "
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[author]
+  name = "Valkyrie's EECS Note"
+  image = "img/goddess2.png"
+  headline = "Our doubts are traitors, and make us lose the good we oft might win, by fearing to attempt."
+  bio = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+  links = [
+    { x-twitter = "https://twitter.com/burufugu" },
+    { mastodon = "https://masto.ai/@blowfish" },
+    { github = "https://github.com/nunocoracao/blowfish" },
+  ]
+
+  
