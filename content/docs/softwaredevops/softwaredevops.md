@@ -1,7 +1,7 @@
 ---
 title: "基础软件运维"
 date: 2024-01-14
-draft: false
+draft: true
 description: "Discover what's new in Blowfish version 2.0."
 tags: ["new", "docs"]
 ---
